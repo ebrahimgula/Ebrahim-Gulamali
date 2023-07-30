@@ -1,6 +1,8 @@
-# Ebrahim-Gulamali
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Comfortaa&pause=1000&lines=Ebrahim+Gulamali;Cyber-Security+Specialist;Sofware+Engineer)](https://git.io/typing-svg)
 ![Ebrahim's Banner][images/banner.jpg]
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Comfortaa&pause=1000&lines=Ebrahim+Gulamali;Cyber-Security+Specialist;Sofware+Engineer)](https://git.io/typing-svg)
+<img src="images/portfolio-ideas.png">
+
+# About me
 
 <li> 🎓 Computer Science student majoring in Cyber-Security at the <a href="https://www.newcastle.edu.au/">University of Newcastle</a> </li>
 <li> 🔭 Actively seeking opportunities in the field of Cyber-Security and related areas. </li>
