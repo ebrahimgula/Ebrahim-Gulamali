@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Comfortaa&pause=1000&lines=Ebrahim+Gulamali;Cyber-Security+Specialist;Sofware+Engineer)](https://git.io/typing-svg)
-![Ebrahim's Banner][images/banner.jpg]
-<img src="images/portfolio-ideas.png">
+![Ebrahim's Banner][images/banner.png]
+<img src="images/banner.png">
 
 # About me
 
