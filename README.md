@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Comfortaa&pause=1000&color=E2E2E2&center=true&vCenter=true&lines=Ebrahim+Gulamali;Cyber-Security+Specialist;Sofware+Engineer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Comfortaa&pause=1000&color=E2E2E2&lines=Ebrahim+Gulamali;Cyber-Security+Specialist;Sofware+Engineer)](https://git.io/typing-svg)
 
 <img src="images/banner.png">
 
